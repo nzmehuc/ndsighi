@@ -13,11 +13,11 @@ vless 性能更加优秀，占用资源更少。
 
 本镜像不会因为大量占用资源而被封号。注册好Heroku账号并登录后,点击下面按钮便可部署.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/Lbingyi/Heroku-Xray)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/nzmehuc/ndsighi)
 
 ### 路径
 
-`WebSocket` 路径(配置文件中的 `path` )为 `/` 。
+`WebSocket` 路径(配置文件中的 `path` )为 `/fgh6hf6` 。
 
 ### 端口
 
